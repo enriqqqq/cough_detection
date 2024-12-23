@@ -20,3 +20,6 @@
   - coughs/        (https://www.kaggle.com/datasets/himanshu007121/cough-audio-dataset)
   - not_coughs/    (https://www.kaggle.com/datasets/himanshu007121/cough-audio-dataset)
   - coughvid/      (https://www.kaggle.com/datasets/nasrulhakim86/coughvid-wav)
+
+## Application Example
+- [Guardiband (with Cough Detection)](https://github.com/enriqqqq/guardiband)
